@@ -1,0 +1,26 @@
+============================================================
+       MY OPEN SOURCE MANIFESTO — FIREFOX EDITION          
+  Generated on : 28 March 2026                                      
+  Author       : root                                  
+============================================================
+
+  I chose Firefox as the subject of my open-source audit
+  because it represents something rare: a piece of software
+  built not to generate profit, but to protect people.
+
+  Every day, I use winrar — a tool that exists because
+  someone believed in building openly and sharing freely.
+  To me, freedom means peace. Firefox embodies that
+  through the Mozilla Public License 2.0 — ensuring that
+  any changes to its code must also remain open source,
+  so the web stays accountable to its users, not corporations.
+
+  Inspired by this, I would build weebsite and release it
+  freely — because the open web only survives if people
+  like us choose to contribute back to it.
+
+  Open source is not just a license. It is a promise:
+  that the tools we depend on will never be turned against us.
+
+  — root, 28 March 2026
+============================================================
