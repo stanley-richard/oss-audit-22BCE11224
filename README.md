@@ -9,7 +9,7 @@
 |---|---|
 | **Name** | Stanley Richard |
 | **Roll Number** | 22BCE11224 |
-| **Slot** | F11 |
+| **Slot** | A13 |
 | **Date of Submission** | 02/04/2026 |
 
 ---
